@@ -1,6 +1,6 @@
 # ExcelDashboard
 
-Disclaimer: Due to confidential reasons, the data is randomized and edited for public viewing purposes without data leak
+Disclaimer: Due to confidential reasons, the data is blanked off on sensitive data for public viewing purposes without data leak
 
 Environment: Microsoft Excel
 
