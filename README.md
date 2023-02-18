@@ -7,7 +7,6 @@ Environment: Microsoft Excel
 Purpose of this dashboard was to track KPI within the team and external parties and was viewed on a weekly and monthly basis (On Time Shipments & On Time Requests)
 The performance benchmark has been communicated with management to set as a baseline for passing/failing
 #
-
 1. Collection of data was done from 3 different external parties, of which different templates were received and have to be arranged into the correct columns in the Masterfile for analysis
 2.Cleaning of data which includes blank cells, formulas found within the sheet which was linked to external parties' own data sheet, and validating of information being provided
 3. Created groupings for easy reference in Pivot Tables via Vlookup
@@ -19,6 +18,7 @@ The performance benchmark has been communicated with management to set as a base
 9. Beautifying the dashboard based on company's colours and a clean outlook
 #
 Screenshots are being taken on the file 
+#
 Screenshot #1: Tracking overall performance, monthly On Time Shipments & On Time Requests turnover rate)
 #
 Screenshot #2: Tracking of specific group with 2 different slicers portion to narrow down on view (Viewed on weekly basis)
