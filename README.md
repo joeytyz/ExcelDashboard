@@ -18,7 +18,7 @@ The performance benchmark has been communicated with management to set as a base
 8. Created slicers for easy reference when scrutinizing on a specific group
 9. Beautifying the dashboard based on company's colours and a clean outlook
 #
-Screenshots are being taken on the file 
+Screenshots are being taken on the original file 
 #
 Screenshot #1: Tracking overall performance, monthly On Time Shipments & On Time Requests turnover rate)
 ![Image 18-2-23 at 13 29](https://user-images.githubusercontent.com/124645829/219846327-495cad9d-fe07-4048-a72c-4ae5e78f76c6.jpg)
