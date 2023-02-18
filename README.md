@@ -21,8 +21,11 @@ The performance benchmark has been communicated with management to set as a base
 Screenshots are being taken on the file 
 #
 Screenshot #1: Tracking overall performance, monthly On Time Shipments & On Time Requests turnover rate)
+![Image 18-2-23 at 13 29](https://user-images.githubusercontent.com/124645829/219846327-495cad9d-fe07-4048-a72c-4ae5e78f76c6.jpg)
+
 #
 Screenshot #2: Tracking of specific group with 2 different slicers portion to narrow down on view (Viewed on weekly basis)
+![Image 18-2-23 at 13 30](https://user-images.githubusercontent.com/124645829/219846340-fb8bf409-9ebb-4f5c-ae5d-4e73e7e29528.jpg)
 #
 
 END
