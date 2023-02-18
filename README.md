@@ -4,7 +4,7 @@ Disclaimer: Due to confidential reasons, the data is blanked off on sensitive da
 
 Environment: Microsoft Excel
 
-Purpose of this dashboard was to track KPI within the team and external parties and was viewed on a weekly and monthly basis
+Purpose of this dashboard was to track KPI within the team and external parties and was viewed on a weekly and monthly basis (On Time Shipments & On Time Requests)
 The performance benchmark has been communicated with management to set as a baseline for passing/failing
 
 1. Collection of data was done from 3 different external parties, of which different templates were received and have to be arranged into the correct columns in the Masterfile for analysis
